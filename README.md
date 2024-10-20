@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **studying Electronics engineering from UVCE**
+- 🔭 I’m currently **studying Electronics engineering from UVCE**
 
 - 🌱 I’m currently learning **Frontend development, embedded system projects.**
 
